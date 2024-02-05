@@ -152,7 +152,7 @@
     <repository>
       <id>maven-releases</id>
       <name>maven-releases</name>
-      <url>http://100.26.112.128:8081/repository/maven-releases//</url>
+      <url>http://3.87.61.188:8081/repository/maven-releases//</url>
     </repository>
     <snapshotRepository>
       <id>maven-snapshots</id>
